@@ -14,5 +14,7 @@ public class Test {
         List<String> recommend = building.recommend();
 
         recommend.add("test");
+        
+        //test
     }
 }
