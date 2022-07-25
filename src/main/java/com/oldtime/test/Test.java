@@ -6,6 +6,7 @@ import com.oldtime.servise.factory.music.RecommendMusicFactory;
 import java.util.List;
 
 public class Test {
+    //新加注释
 
     private static final RecommendMusicFactory factory = new RecommendMusicFactory();
 
